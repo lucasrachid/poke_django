@@ -1,0 +1,18 @@
+# Arquivos temporários
+*.pyc
+*.pyo
+*.~*
+
+# Virtualenv
+venv/
+ENV/
+
+# Arquivos de log
+*.log
+
+# Cache de diretórios
+__pycache__/
+.cache/
+
+# Arquivos de configuração sensíveis
+.env
